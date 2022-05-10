@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+scipy
+scikit-learn
+scikit-image
+seaborn
+tensorflow-gpu==1.15
+keras==2.3.1
+h5py==2.10.0
